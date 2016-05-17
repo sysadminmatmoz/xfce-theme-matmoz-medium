@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Matmoz Medium
+Comment=Medium Flat XFCE theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Matmoz-medium
+MetacityTheme=Matmoz-medium
+ButtonLayout=close,minimize:
